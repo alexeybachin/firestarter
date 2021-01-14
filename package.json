@@ -1,5 +1,5 @@
 {
-  "name": "firestarter - enter app name here",
+  "name": "firestarter",
   "version": "1.0.0",
   "description": "Quick and dirty frontend devstack to get things going",
   "main": "index.js",
